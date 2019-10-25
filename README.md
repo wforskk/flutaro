@@ -2,6 +2,25 @@
 
 A new Flutter application.
 
+## about flutaro
+- It displays the list of MaterialColors and MaterialAcssentColors.
+#### Primary purpose
+- To learn what can be made with Flutter.
+#### Technology
+- Dart
+#### Function of Flutter
+- Container
+- FlatButton/RoundedRectangleBorder
+- Navigator/MaterialPageRoute
+- Text/TextStyle/SelectableText
+- GridView
+- IconButton
+- BoxDecoration/LinearGradient
+- Column/Row
+- Padding
+- FlutterLogo
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
