@@ -1,6 +1,7 @@
 # flutaro
 
 A new Flutter application.
+(勉強のために、作成しているため戦った際のコードが残ってます。）
 
 ## about flutaro
 - It displays the list of MaterialColors and MaterialAcssentColors.
